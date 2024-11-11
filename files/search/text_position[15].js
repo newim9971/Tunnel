@@ -1,0 +1,1 @@
+positionForPages[15]={"page":15,"positions":[{"word":"13","left":0.927927,"top":0.961615,"width":0.017703,"height":0.009551}]};
